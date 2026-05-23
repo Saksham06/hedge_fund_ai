@@ -1,0 +1,7 @@
+yfinance
+numpy
+pandas
+streamlit
+requests
+reportlab
+python-dotenv
